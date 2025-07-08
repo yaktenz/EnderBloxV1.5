@@ -1,0 +1,8 @@
+How to Run 
+------------
+To run this game all you have to do is open the folder and open EnderBlox.html
+
+How to install mods
+------------
+installing mods is simple and all mods should leave instructions, however map mods go inside the "maps" folder
+From there you can run the modded maps by just opening them or by putting it into the eblava code
